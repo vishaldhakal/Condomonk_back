@@ -1,0 +1,1 @@
+web: gunicorn homebaba_django.wsgi --log-file -
